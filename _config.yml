@@ -1,0 +1,10 @@
+# Site settings
+title: Random stuff and observations
+email: alexander.rosenberg@gmail.com
+description: Random stuff and observations
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://rozik.github.io"
+github_username: rozik
+
+# Build settings
+markdown: kramdown
